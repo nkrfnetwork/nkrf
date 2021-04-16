@@ -1,7 +1,7 @@
 <hr />
 
 <div align="center">
-    <img src="images/logo.svg" alt="logo" width='300px' height='auto'/>
+    <img src="images/logo.png" alt="logo" width='300px' height='auto'/>
 </div>
 <hr />
 
