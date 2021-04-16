@@ -1,7 +1,7 @@
 <hr />
 
 <div align="center">
-    <https://github.com/nkrfnetwork/nkrf/commit/ebc757d96e1071359519813a97c5439e1527da7e#commitcomment-49624787>
+    <https://github.com/nkrfnetwork/nkrf/blob/bb77fcbaf44af2b090a9227b52d415864ab4c402/logo.svg>
 </div>
 <hr />
 
