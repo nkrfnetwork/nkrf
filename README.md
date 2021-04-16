@@ -1,7 +1,7 @@
 <hr />
 
 <div align="center">
-    <img src="images/logo.png" alt="logo" width='300px' height='auto'/>
+    <https://github.com/nkrfnetwork/nkrf/commit/ebc757d96e1071359519813a97c5439e1527da7e#commitcomment-49624787>
 </div>
 <hr />
 
