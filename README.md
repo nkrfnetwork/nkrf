@@ -1,6 +1,9 @@
 <hr />
 
-
+<div align="center">
+    <img src="images/logo.svg" alt="logo" width='300px' height='auto'/>
+</div>
+<hr />
 
 
 ### What is NKRF?
