@@ -1,18 +1,6 @@
 <hr />
-<div align="center">
-    <img src="images/logo.svg" alt="Logo" width='300px' height='auto'/>
-</div>
-<hr />
+![logo](https://user-images.githubusercontent.com/82674963/115088117-2b55b200-9f18-11eb-8b03-4ad76d41cce5.png)
 
-[![Live Artifacts](https://github.com/nkrf/nkrf-node/workflows/Live/badge.svg)](https://github.com/nkrf/nkrf-node/actions?query=workflow%3ALive)
-[![Beta Artifacts](https://github.com/nkrf/nkrf-node/workflows/Beta/badge.svg)](https://github.com/nkrf/nkrf-node/actions?query=workflow%3ABeta)
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/nkrf/nkrf-node)](https://github.com/nkrf/nkrf-node/releases/latest)
-[![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/nkrf/nkrf-node?color=darkblue&label=beta)](https://github.com/nkrf/nkrf-node/tags)
-[![Tests](https://github.com/nkrf/nkrf-node/workflows/Tests/badge.svg)](https://github.com/nkrf/nkrf-node/actions?query=workflow%3ATests)
-[![RelWithDebug Tests](https://github.com/nkrf/nkrf-node/workflows/Release%20Tests/badge.svg)](https://github.com/nkrf/nkrf-node/actions?query=workflow%3A%22Release+Tests%22)
-[![Discord](https://img.shields.io/badge/discord-join%20chat-orange.svg)](https://nkrfnetwork.com)
-
----
 
 ### What is NKRF?
 
